@@ -117,8 +117,8 @@ main .coluna section{
     margin: 0 0 20px;
     min-height: 140px;
     color:var(--corTextoSecudaria);
-    border-radius: 2rem;
-    background-color: #c7ecf7;
+    border-radius: 1rem;
+    background-color: #e4edf1;
     
 }
 
