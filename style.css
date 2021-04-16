@@ -115,7 +115,7 @@ main .coluna{
 main .coluna section{
     border-bottom: 1px solid #d4e9ff;
     margin: 0 0 20px;
-    min-height: 140px;
+    min-height: 106px;
     color:var(--corTextoSecudaria);
     border-radius: 1rem;
     background-color: #e4edf1;
